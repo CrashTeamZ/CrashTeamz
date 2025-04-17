@@ -3,7 +3,7 @@
 **Hello**, my name is **CrashTeam** // **Crashteamik** ⚡
 At the moment I am learning the **Java** programming language and trying to create **High-quality** and **perfect** code.
 
-- 🔭 I’m currently working on -- **Minecraft Cheats, Minecraft Plugin**.
+- 🔭 I’m currently working on -- **Minecraft Plugins**.
 - 🌱 I'm currently learning -- **Java**
 
 ## 📫 Contact
