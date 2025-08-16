@@ -1,11 +1,22 @@
-## Welcome to CrashTeam's GitHub profile! 👋
+# Привет, я CrashTeamZ! 👋
 
-**Hello**, my name is **CrashTeam** // **Crashteamik** ⚡
-At the moment I am learning the **Java** programming language and trying to create **High-quality** and **perfect** code.
+## 🛠 Мой стек технологий:
+- **Java** (основной язык)
+- **C++** (для низкоуровневых задач)
+- Алгоритмы и структуры данных
+- ООП, многопоточность
 
-- 🔭 I’m currently working on -- **Minecraft Plugins**.
-- 🌱 I'm currently learning -- **Java**
+## 🔥 Мои проекты:
+Здесь будут появляться мои проекты на Java и C++. Следите за обновлениями!
 
-## 📫 Contact
-Discord: https://discord.com/users/1317558868217167962
-Telegram: https://t.me/crashteamik
+## 📫 Как связаться:
+- **Discord**: `crashteamz` (ID: 1218480622474100787)
+- **GitHub**: [github.com/CrashTeamZ](https://github.com/CrashTeamZ)
+
+## 🎯 В планах:
+- Разработка игровых механик на Java
+- Оптимизация кода на C++
+- Участие в open-source проектах
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
